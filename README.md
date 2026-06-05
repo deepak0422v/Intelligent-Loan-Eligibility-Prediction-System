@@ -1,6 +1,6 @@
 Machine Learning | Python | Streamlit | Scikit-Learn
 
-# Loan Approval System
+# Intelligent Loan Eligibility Prediction System
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-Project-green)
